@@ -1,0 +1,27 @@
+node_modules/
+dist/
+build/
+.env
+.env.local
+*.log
+.DS_Store
+*.sqlite
+*.sqlite3
+.vscode/
+.idea/
+coverage/
+*.swp
+*.swo
+*~
+
+# Fly.io
+.fly/
+
+# Frontend
+frontend/dist/
+frontend/.vite/
+
+# Backend
+backend/dist/
+backend/.env
+
